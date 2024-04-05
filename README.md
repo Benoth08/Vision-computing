@@ -1,8 +1,8 @@
 # Vision-computing
 
 This GitHub project brings together a series of computer vision mini projects covering various themes. Whether you’re interested in biological imaging, medicine, industry, or simply more general topics from everyday life, you’ll find concrete examples and solutions here.
-Project Contents
 
+Project Contents
 1.	Biological Imaging:
 •	Cell Tracking: Monitoring cell movements and interactions from real-time images.
 •	Fluorescence Coupling: Using computer vision methods to analyze fluorescent images, such as detecting specific proteins within cells.
